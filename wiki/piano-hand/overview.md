@@ -8,7 +8,7 @@ author: Revanth Senthil
 
 ### Mission
 
-The primary objective of Piano Hand is to explore the perspective of robotics in replicating human-motion. Fascination for this included looking at tasks that would help us understand biomechanics, which is an area of robotics that has gained a lot of traction recently. 
+Piano Hand seeks to explore the perspective of robotics in replicating human-motion. Fascination for this included looking at tasks that would help us understand biomechanics, which is an area of robotics that has gained a lot of traction recently. 
 
 The goal of the project is to build a fully autonomous robot arm that can play the piano. The human hand, with 27 degrees of freedom (DOF), has so far been the most dextrous mechanism to play the piano and the closer we get to replicating that degree of freedom and movement, the better it is to move the arm and play the piano.
 
@@ -31,7 +31,7 @@ Ideated and designed new mechanisms for the hand that involves the usage of line
 
 Worked on fixing issues that came about in software in Spring 2022, and in getting ready the design to implement on the hand in Fall 2023. Introduced new course of action alongside software to start with machine learning and model development in Optical Music Recognition.
 
-Clip from working of servos:
+The servos still have a lot of noise but they worked alongside the combination of a multiple servo-flex sensor combination. Refining and developing this will be done in the following semester. Clip from working of servos:
 
 {% include googleDrivePlayer.html id="12XIlDrckEdbvJNI8A9Jp3um2TsCtu46J/preview" %}
 
@@ -124,11 +124,11 @@ The ILDA Robot Hand: A 15 DOF, highly tactile robot hand, motion along surface o
 </li>
 
 <li>
-Soft actuated robots - <a href="https://dash.harvard.edu/bitstream/handle/1/25922120/66841469.pdf;sequence=1"> Harvard paper </a> | 
+Soft actuated robots - <a href="https://dash.harvard.edu/bitstream/handle/1/25922120/66841469.pdf;sequence=1"> Harvard paper </a>
 </li>
 
 <li>
-WPI - <a href="https://web.wpi.edu/Pubs/E-project/Available/E-project-042919-161531/unrestricted/Piano_Playing_Robotic_Arm_MQP_-_Final.pdf"> MQP
+WPI - <a href="https://web.wpi.edu/Pubs/E-project/Available/E-project-042919-161531/unrestricted/Piano_Playing_Robotic_Arm_MQP_-_Final.pdf"> MQP</a>
 </li>
 
 <li>
