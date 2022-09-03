@@ -31,7 +31,7 @@ Resources are the fuel required to reach your project's mission. This encompasse
 
 When a new project is formed, the **project manager is responsible for drafting a budget of these resources**. There is no special format for this budget, it just needs to acknowledge what you need to be successful.
 
-The leadership team will review this budget before work takes place. If approved, it is the leadership team's responsibility to ensure these resources are provided.
+The leadership team will review this budget before work takes place. If approved, it is the leadership team's responsibility to ensure these resources are provided. A budget for a project's first semester must be under **$350.**
 
 One of the more challenging problems is **connecting people to the required knowledge**, also known as onboarding. This requires understanding the present distribution of your team's skills, identifying the gaps, then directing them to the proper resources. If you have any issues with this process, let the leadership team know.
 
